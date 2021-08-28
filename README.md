@@ -2,7 +2,7 @@
 
 <h2>Hi there:wave:</h2>
 
-<p>I want to be rich</p>
+<p></p>
 
 <h2>:paperclip:Tech Stacks</h2>
 <div>

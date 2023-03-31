@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Minji%20Kil&fontSize=80&fontColor=FFFAFA&fontAlignY=40" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Minji%20Kil&fontSize=80&fontColor=FFFAFA&fontAlignY=40" />
 
 <h2>Hi there:wave:</h2>
 
@@ -11,4 +11,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp  
-</div>
+</div> -->

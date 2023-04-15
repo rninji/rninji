@@ -1,14 +1,13 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Minji%20Kil&fontSize=80&fontColor=FFFAFA&fontAlignY=40" />
+# Hello! I'm Minji :wave: 
 
-<h2>Hi there:wave:</h2>
 
-<p></p>
+## Skills
 
-<h2>:paperclip:Tech Stacks</h2>
-<div>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp  
-</div> -->
+### Platforms & Languages
+<img src="https://img.shields.io/badge/Java-5382a1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Processing4-006699?style=flat-square&logo=ProcessingFoundation&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> 
+
+### Tech Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-F05032?style=flat-square&logo=eclipseide&logoColor=white"/> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rninji&theme=buefy&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaminji)](https://solved.ac/aaminji/)

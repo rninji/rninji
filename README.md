@@ -2,10 +2,13 @@
 즐거운 세상을 만들기 위해 공부하고 있습니다😊
 
 ## I am
-
+Name: Minji Kil
+From: Seoul, Korea
+Education: Art & Technology / Convergence Software @Sogang University
+Interests: Entertainments, Sports, Financial Investement
 
 ## Experiences
-
+[2018.05-2018.12]
 
 ## Skills
 

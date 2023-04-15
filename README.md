@@ -9,11 +9,11 @@ Education: Art & Technology/Convergence Software @Sogang University
 Interests: Entertainments, Sports, Financial Investement
 ```
 ## Experiences
-``` 
-[2018.05-2018.12] 삼성전자와 함께 하는 뛰뛰빵빵 안전교육 프로젝트
-[2019.07-2019.12] SK Lookies 딩동댕 마이멜로디 프로젝트
-[2021.03-2021.12] 서강대학교 멋쟁이 사자처럼 9기
-[2023.03-2023.05] KB 국민은행 IT 아카데미 IT's Your Life 3기
+``` yaml
+[2018.05-2018.12]: 삼성전자와 함께 하는 뛰뛰빵빵 안전교육 프로젝트
+[2019.07-2019.12]: SK Lookies 딩동댕 마이멜로디 프로젝트
+[2021.03-2021.12]: 서강대학교 멋쟁이 사자처럼 9기
+[2023.03-2023.05]: KB 국민은행 IT 아카데미 IT's Your Life 3기
 ```
 
 ## Skills

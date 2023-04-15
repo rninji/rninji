@@ -1,7 +1,7 @@
 # Hello! I'm Minji :wave: 
 즐거운 세상을 만들기 위해 공부하고 있습니다😊
 
-## I am
+## Profile
 ``` yaml
 Name: Minji Kil
 From: Seoul, Korea

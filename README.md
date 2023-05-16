@@ -28,6 +28,9 @@ Interests: Entertainments, Sports, Financial Investement
 ### Design Tools
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/> <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/> 
 
+## Portfolio
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://past-baker-2c2.notion.site/7f3505ad1ce24835942a8bb2c5f59322)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rninji&theme=buefy&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaminji)](https://solved.ac/aaminji/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rninji&langs_count=10&layout=compact) -->
 

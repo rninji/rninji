@@ -16,6 +16,7 @@ Interests: Entertainments, Sports, Financial Investement
 [2021.11-2022.02]: 넥슨 PROJECT MOD <CI 2021>
 [2023.03-2023.05]: KB 국민은행 IT 아카데미 IT's Your Life 3기
                    최우수 프로젝트 수상: SoBe-It
+[2023.06-2023.08]: 펄어비스 웹 백엔드 인턴 근무
 ```
 
 ## Skills

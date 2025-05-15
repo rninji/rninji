@@ -17,6 +17,7 @@ Interests: Entertainments, Sports, Financial Investement
 [2023.03-2023.05]: KB 국민은행 IT 아카데미 IT's Your Life 3기
                    최우수 프로젝트 수상: SoBe-It
 [2023.06-2023.08]: 펄어비스 웹 백엔드 인턴 근무
+[2025.05-2025.11]: 멋쟁이 사자처럼 Unity 5기
 ```
 
 ## Skills
